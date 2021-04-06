@@ -1,5 +1,5 @@
 - 👋 Hi, I’m AureumApes
-- 👀 I’m interested in Gamedevelopment in Unity
+- 👀 I’m interested in Gamedevelopment with Unity
 - 🌱 I’m currently learning HTML
 
 <!---
