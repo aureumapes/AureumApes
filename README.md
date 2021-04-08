@@ -26,7 +26,6 @@ I’m interested in Gamedevelopment with Unity. I make Discordbots using discord
 * Atom
   * Custom Theme:
 
-
 ![Atom Theme](/images/atom.png)
 * IntelliJ IDEA
     * Standard Dark Theme
