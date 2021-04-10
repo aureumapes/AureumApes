@@ -16,7 +16,7 @@ I’m interested in Gamedevelopment with Unity. I make Discordbots using discord
   * Discord RP
 * MonoDevelop (**_.NET_**)
   * No Plugins
-* Atom (**_CSS_**, **_HTML_**)
+* Atom (**_CSS_**, **_HTML_**, **_Batch_**)
   * Tabnine
   * Discord RP
 * IntelliJ IDEA (**_Java_**)
