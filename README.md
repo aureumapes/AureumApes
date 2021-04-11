@@ -7,6 +7,7 @@ I’m interested in Gamedevelopment with Unity. I make Discordbots using discord
 * JavaScript (**_JS_**)
 * Cascading Style Sheets (**_CSS_**)
 * Python (**_PY_**)
+* C sharp (c#)
 
 ## IDEs and TextEditors and Plugins for them I use:
 * Pycharm (**_PY_**)
