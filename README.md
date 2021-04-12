@@ -20,15 +20,16 @@ I’m interested in Gamedevelopment with Unity. I make Discordbots using discord
 * Atom (**_CSS_**, **_HTML_**, **_Batch_**)
   * Tabnine
   * Discord RP
-* IntelliJ IDEA (**_Java_**)
-  * No Plugins
+* Eclipse (**_Java_**)
+  * Tabnine
 
 ## Themes I use:
 * Atom
   * Custom Theme:
-    * ![Atom Theme](/images/atom.png)
-* IntelliJ IDEA
-    * Standard Dark Theme
+    ![Atom Theme](/images/atom.png)
+* Eclipse
+    * Custom Theme:
+    * [Theme](http://www.eclipsecolorthemes.org/?view=theme&id=61678)
 * VS Code
     * Standard Theme
 * MonoDevelop
