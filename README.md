@@ -26,7 +26,6 @@ I’m interested in Gamedevelopment with Unity. I make Discordbots using discord
 ## Themes I use:
 * Atom
   * Custom Theme:
-    ![Atom Theme](/images/atom.png)
 * Eclipse
     * Custom Theme:
     * [Theme](http://www.eclipsecolorthemes.org/?view=theme&id=61678)
