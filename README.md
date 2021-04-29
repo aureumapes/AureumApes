@@ -7,7 +7,7 @@ I’m interested in Gamedevelopment with Unity. I make Discordbots using discord
 * JavaScript (**_JS_**)
 * Cascading Style Sheets (**_CSS_**)
 * Python (**_PY_**)
-* C sharp (c#)
+* C sharp (C#)
 * BrainFuck (BF)
 
 ## IDEs and TextEditors and Plugins for them I use:
@@ -15,18 +15,15 @@ I’m interested in Gamedevelopment with Unity. I make Discordbots using discord
   * Discord RP
 * WebStrom (**_JS_**)
   * Discord RP
-*VS Code (**_BF_**)
+*VS Code (**_BF_**, **_CSS_**, **_HTML_**, **_Batch_**)
   * aaron-bond.better-comments
   * coenraads.bracket-pair-colorizer
   * attilabuti.brainfuck-syntax
   * ms-ceintl.vscode-language-pack-de
   * vscode-icons-team.vscode-icons
   * icrawl.discord-vscode
-* Rider (**_.NET_**)
+* Rider (**_C#_**)
   * No Plugins
-* Atom (**_CSS_**, **_HTML_**, **_Batch_**)
-  * Tabnine
-  * Discord RP
 * IntelleJi (**_Java_**)
   * Tabnine
 
