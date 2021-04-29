@@ -8,7 +8,7 @@ I’m interested in Gamedevelopment with Unity. I make Discordbots using discord
 * Cascading Style Sheets (**_CSS_**)
 * Python (**_PY_**)
 * C sharp (c#)
-* BrainFuck (Bf)
+* BrainFuck (BF)
 
 ## IDEs and TextEditors and Plugins for them I use:
 * Pycharm (**_PY_**)
