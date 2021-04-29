@@ -8,27 +8,31 @@ I’m interested in Gamedevelopment with Unity. I make Discordbots using discord
 * Cascading Style Sheets (**_CSS_**)
 * Python (**_PY_**)
 * C sharp (c#)
+* BrainFuck (Bf)
 
 ## IDEs and TextEditors and Plugins for them I use:
 * Pycharm (**_PY_**)
   * Discord RP
-* VS Code (**_JS_**)
-  * Tabnine
+* WebStrom (**_JS_**)
   * Discord RP
-* MonoDevelop (**_.NET_**)
+*VS Code (**_BF_**)
+  * aaron-bond.better-comments
+  * coenraads.bracket-pair-colorizer
+  * attilabuti.brainfuck-syntax
+  * ms-ceintl.vscode-language-pack-de
+  * vscode-icons-team.vscode-icons
+  * icrawl.discord-vscode
+* Rider (**_.NET_**)
   * No Plugins
 * Atom (**_CSS_**, **_HTML_**, **_Batch_**)
   * Tabnine
   * Discord RP
-* Eclipse (**_Java_**)
+* IntelleJi (**_Java_**)
   * Tabnine
 
 ## Themes I use:
 * Atom
   * Custom Theme:
-* Eclipse
-    * Custom Theme:
-    * [Theme](http://www.eclipsecolorthemes.org/?view=theme&id=61678)
 * VS Code
     * Standard Theme
 * MonoDevelop
