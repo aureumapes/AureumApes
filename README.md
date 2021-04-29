@@ -39,6 +39,5 @@ I’m interested in Gamedevelopment with Unity. I make Discordbots using discord
     * Standard Theme
 
 ## My Internet Precences:
-[YouTube (German)](https://www.youtube.com/channel/UCbRKwia5QdDSbWCjVFld_4Q)
 
-[Discord](aYnk6nGMgG)
+[Discord](https://discord.gg/aYnk6nGMgG)
