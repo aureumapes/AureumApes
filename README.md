@@ -41,6 +41,6 @@ I’m interested in Gamedevelopment with Unity. I make Discordbots using discord
 [Discord](https://discordapp.com/users/608920482284306434)
 
 ## GitHub Stats
-[![Aureums github stats](https://github-readme-stats.vercel.app/api?username=AureumApes&show_icons=true&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)\
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AureumApes&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Trophy](https://github-profile-trophy.vercel.app/?username=AureumApes&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Aureums github stats](https://github-readme-stats.vercel.app/api?username=AureumApes&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)\
+[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AureumApes&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=AureumApes&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
