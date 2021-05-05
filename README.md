@@ -16,7 +16,7 @@ I’m interested in Gamedevelopment with Unity. I make Discordbots using discord
   * Discord RP
 * WebStrom (**_JS_**)
   * Discord RP
-*VS Code (**_BF_**, **_CSS_**, **_HTML_**, **_Batch_**, **_AUS_**)
+* VS Code (**_BF_**, **_CSS_**, **_HTML_**, **_Batch_**, **_AUS_**)
   * aaron-bond.better-comments
   * coenraads.bracket-pair-colorizer
   * attilabuti.brainfuck-syntax
