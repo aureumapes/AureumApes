@@ -9,7 +9,7 @@ I’m interested in Gamedevelopment with Unity. I make Discordbots using discord
 * Python (**_PY_**)
 * C sharp (**_C#_**)
 * BrainFuck (**_BF_**)
-* AureumScript(**_AUS_**)
+* AureumScript (**_AUS_**)
 
 ## IDEs and TextEditors and Plugins for them I use:
 * Pycharm (**_PY_**)
