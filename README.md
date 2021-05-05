@@ -11,7 +11,7 @@ I’m interested in Gamedevelopment with Unity. I make Discordbots using discord
 * BrainFuck (**_BF_**)
 * AureumScript (**_AUS_**)
 
-## IDEs and TextEditors and Plugins for them I use:
+## IDEs, TextEditors and Plugins for them I use:
 * Pycharm (**_PY_**)
   * Discord RP
 * WebStrom (**_JS_**)
