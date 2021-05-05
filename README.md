@@ -39,7 +39,7 @@ I’m interested in Gamedevelopment with Unity. I make Discordbots using discord
 ## My Internet Precences:
 
 <span>
-<a href="discord.com/users/608920482284306434"><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg"/></a>
+<a href="https://discord.com/users/608920482284306434"><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg"/></a>
  <a href="https://steamcommunity.com/id/AureumApes/"><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/steam.svg"></a>
 </span>
 
