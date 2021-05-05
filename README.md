@@ -28,14 +28,6 @@ I’m interested in Gamedevelopment with Unity. I make Discordbots using discord
 * IntelleJi (**_Java_**)
   * Tabnine
 
-## Themes I use:
-* Atom
-  * Custom Theme:
-* VS Code
-    * Standard Theme
-* MonoDevelop
-    * Standard Theme
-
 ## My Internet Precences:
 
 <span>
