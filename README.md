@@ -12,20 +12,20 @@ I’m interested in Gamedevelopment with Unity. I make Discordbots using discord
 * AureumScript (**_AUS_**)
 
 ## IDEs, TextEditors and Plugins for them I use:
-* Pycharm (**_PY_**)
+* <span><img src = "https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/pycharm.svg" height="30" weight="30"></span>
   * Discord RP
-* WebStrom (**_JS_**)
+* <span><img src = "https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/webstorm.svg" height="30" weight="30"></span>
   * Discord RP
-* <img src = "https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/visualstudiocode.svg" height="30" weight="30">
+* <span><img src = "https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/visualstudiocode.svg" height="30" weight="30"></span>
   * aaron-bond.better-comments
   * coenraads.bracket-pair-colorizer
   * attilabuti.brainfuck-syntax
   * ms-ceintl.vscode-language-pack-de
   * vscode-icons-team.vscode-icons
   * icrawl.discord-vscode
-* Rider (**_C#_**)
+* <span><img src = "https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/visualstudiocode.svg" height="30" weight="30"></span>
   * No Plugins
-* IntelleJi (**_Java_**)
+* <span><img src = "https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/intellijidea.svg" height="30" weight="30"></span>
   * Tabnine
 
 ## My Internet Precences:
