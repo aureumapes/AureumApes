@@ -35,7 +35,7 @@ I’m interested in Gamedevelopment with Unity. I make Discordbots using discord
  <a href="https://steamcommunity.com/id/AureumApes/"><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/steam.svg"></a>
  <a href="https://www.reddit.com/user/AureumApes"><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/reddit.svg"></a>
  <a href="https://twitch.tv/aureumapeslive"><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/twitch.svg"></a>
- <img height="60" weight="60" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/twitter.svg">
+ <a href="https://twitter.com/ApesAureum"><img height="60" weight="60" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/twitter.svg"></a>
 </span>
 
 ## GitHub Stats
