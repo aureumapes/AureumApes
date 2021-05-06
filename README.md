@@ -16,7 +16,7 @@ I’m interested in Gamedevelopment with Unity. I make Discordbots using discord
   * Discord RP
 * WebStrom (**_JS_**)
   * Discord RP
-* <span><img src = "https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/visualstudiocode.svg" height="30" weight="30"></span>
+* <img src = "https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/visualstudiocode.svg" height="30" weight="30">
   * aaron-bond.better-comments
   * coenraads.bracket-pair-colorizer
   * attilabuti.brainfuck-syntax
