@@ -23,8 +23,6 @@ I’m interested in Gamedevelopment with Unity. I make Discordbots using discord
   * ms-ceintl.vscode-language-pack-de
   * vscode-icons-team.vscode-icons
   * icrawl.discord-vscode
-* <span><img src = "https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/visualstudiocode.svg" height="30" weight="30"></span>
-  * No Plugins
 * <span><img src = "https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/intellijidea.svg" height="30" weight="30"></span>
   * Tabnine
 
