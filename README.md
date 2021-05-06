@@ -42,5 +42,5 @@ I’m interested in Gamedevelopment with Unity. I make Discordbots using discord
 <span>
 <img src="https://github-readme-stats.vercel.app/api?username=AureumApes&show_icons=true&count_private=true&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AureumApes&layout=compact&theme=radical">
-<img src="https://github-profile-trophy.vercel.app/?username=AureumApes&theme=ice">
+<img src="https://github-profile-trophy.vercel.app/?username=AureumApes&theme=dark">
 </span>
