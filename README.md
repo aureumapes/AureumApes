@@ -1,6 +1,4 @@
-<head>
- <link rel="stylesheet" href="./css/main.css">
-</head>
+<link rel="stylesheet" href="./css/main.css">
 # AureumApes
 Hi, I’m AureumApes
 I’m interested in Gamedevelopment with Unity. I make Discordbots using discord.js und node and write Websides with JS, HTML and CSS.
