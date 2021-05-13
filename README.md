@@ -29,11 +29,10 @@ I’m interested in Gamedevelopment with Unity. I make Discordbots using discord
 ## My Internet Precences:
 
 <span>
-<a href="https://discord.com/users/608920482284306434"><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg"/></a>
- <a href="https://steamcommunity.com/id/AureumApes/"><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/steam.svg"></a>
- <a href="https://www.reddit.com/user/AureumApes"><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/reddit.svg"></a>
- <a href="https://twitch.tv/aureumapeslive"><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/twitch.svg"></a>
- <a href="https://twitter.com/ApesAureum"><img height="60" weight="60" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/twitter.svg"></a>
+<a href="https://discord.com/users/608920482284306434"><img style="filter: invert(100%);" height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg"/></a>
+ <a href="https://steamcommunity.com/id/AureumApes/"><img style="filter: invert(100%);" height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/steam.svg"></a>
+ <a href="https://www.reddit.com/user/AureumApes"><img style="filter: invert(100%);" height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/reddit.svg"></a>
+ <a href="https://twitch.tv/aureumapeslive"><img style="filter: invert(100%);" height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/twitch.svg"></a>
 </span>
 
 ## GitHub Stats
