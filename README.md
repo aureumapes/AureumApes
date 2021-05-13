@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="./css/main.css">
 
-## The Laguage I know are:
+## The Laguage I know
 * Java
 * JavaScript (**_JS_**)
 * Cascading Style Sheets (**_CSS_**)
@@ -9,7 +9,7 @@
 * BrainFuck (**_BF_**)
 * AureumScript (**_AUS_**)
 
-## IDEs, TextEditors and Plugins for them I use:
+## IDEs, TextEditors and Plugins for them I use
 * <span><img src = "https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/pycharm.svg" height="30" weight="30"></span>
   * Discord RP
 * <span><img src = "https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/webstorm.svg" height="30" weight="30"></span>
@@ -24,8 +24,7 @@
 * <span><img src = "https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/intellijidea.svg" height="30" weight="30"></span>
   * Tabnine
 
-## My Internet Precences:
-
+## My Internet Precences
 <span>
 <a href="https://discord.com/users/608920482284306434"><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/discord.svg"/></a>
  <a href="https://steamcommunity.com/id/AureumApes/"><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/steam.svg"></a>
