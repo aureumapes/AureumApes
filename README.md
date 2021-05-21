@@ -2,6 +2,7 @@
 
 ## The Laguage I know
 * Java
+* Kotlin (**_KT_**)
 * JavaScript (**_JS_**)
 * Cascading Style Sheets (**_CSS_**)
 * Python (**_PY_**)
@@ -14,15 +15,9 @@
   * Discord RP
 * <span><img src = "https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/webstorm.svg" height="30" weight="30"></span>
   * Discord RP
-* <span><img src = "https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/visualstudiocode.svg" height="30" weight="30"></span>
-  * aaron-bond.better-comments
-  * coenraads.bracket-pair-colorizer
-  * attilabuti.brainfuck-syntax
-  * ms-ceintl.vscode-language-pack-de
-  * vscode-icons-team.vscode-icons
-  * icrawl.discord-vscode
 * <span><img src = "https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/intellijidea.svg" height="30" weight="30"></span>
-  * Tabnine
+  * Discord Interaction
+  * Beam to Disocrd
 
 ## My Internet Precences
 <span>
