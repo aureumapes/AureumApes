@@ -20,7 +20,7 @@
   * Beam to Disocrd
   * Kotlin
 * <span><img src = "https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/clion.svg" height="30" weight="30"></span>
- * None 
+  * None 
 
 ## My Internet Precences
 <span>
