@@ -12,12 +12,15 @@
 
 ## IDEs, TextEditors and Plugins for them I use
 * <span><img src = "https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/pycharm.svg" height="30" weight="30"></span>
-  * Discord RP
+  * Discord Interaction
 * <span><img src = "https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/webstorm.svg" height="30" weight="30"></span>
-  * Discord RP
+  * Discord Interaction
 * <span><img src = "https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/intellijidea.svg" height="30" weight="30"></span>
   * Discord Interaction
   * Beam to Disocrd
+  * Kotlin
+* <span><img src = "https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/clion.svg" height="30" weight="30"></span>
+ * None 
 
 ## My Internet Precences
 <span>
