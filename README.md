@@ -33,6 +33,8 @@
 ## GitHub Stats
 <span>
 <img src="https://github-readme-stats.vercel.app/api?username=AureumApes&show_icons=true&count_private=true&theme=radical">
+ <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AureumApes&layout=compact&theme=radical">
+ <br>
 <img src="https://github-profile-trophy.vercel.app/?username=AureumApes&theme=radical">
 </span>
