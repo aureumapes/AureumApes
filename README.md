@@ -18,4 +18,4 @@ Sometimes i also write C or C#, for Unity Games for Example
  <br>
 <img src="https://github-profile-trophy.vercel.app/?username=AureumApes&theme=radical">
 </span>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AureumApes)](https://github-readme-stats.vercel.app/api/top-langs/?username=AureumApes)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AureumApes)]
