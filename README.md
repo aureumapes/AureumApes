@@ -1,26 +1,9 @@
 <link rel="stylesheet" href="./css/main.css">
 
-## The Laguage I know
-* Java
-* Kotlin (**_KT_**)
-* JavaScript (**_JS_**)
-* Cascading Style Sheets (**_CSS_**)
-* Python (**_PY_**)
-* C sharp (**_C#_**)
-* BrainFuck (**_BF_**)
-* AureumScript (**_AUS_**)
+Hey there <br>
+Im AureumApes and i code in Python JavaScript and Kotlin.
+Sometimes i also write C or C#, for Unity Games for Example
 
-## IDEs, TextEditors and Plugins for them I use
-* <span><img src = "https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/pycharm.svg" height="30" weight="30"></span>
-  * Discord Interaction
-* <span><img src = "https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/webstorm.svg" height="30" weight="30"></span>
-  * Discord Interaction
-* <span><img src = "https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/intellijidea.svg" height="30" weight="30"></span>
-  * Discord Interaction
-  * Beam to Disocrd
-  * Kotlin
-* <span><img src = "https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/clion.svg" height="30" weight="30"></span>
-  * None 
 
 ## My Internet Precences
 <span>
@@ -33,7 +16,7 @@
 <span>
 <img src="https://github-readme-stats.vercel.app/api?username=AureumApes&show_icons=true&count_private=true&theme=radical">
  <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AureumApes&layout=compact&theme=radical">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AureumApes)](https://github-readme-stats.vercel.app/api/top-langs/?username=dlsf)
  <br>
 <img src="https://github-profile-trophy.vercel.app/?username=AureumApes&theme=radical">
 </span>
