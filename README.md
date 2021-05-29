@@ -16,7 +16,7 @@ Sometimes i also write C or C#, for Unity Games for Example
 <span>
 <img src="https://github-readme-stats.vercel.app/api?username=AureumApes&show_icons=true&count_private=true&theme=radical">
  <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AureumApes)](https://github-readme-stats.vercel.app/api/top-langs/?username=AureumAppes)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AureumApes)](https://github-readme-stats.vercel.app/api/top-langs/?username=AureumApes)
  <br>
 <img src="https://github-profile-trophy.vercel.app/?username=AureumApes&theme=radical">
 </span>
