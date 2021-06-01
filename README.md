@@ -18,5 +18,5 @@ Sometimes i also write C or C#, for Unity Games for Example
  <br>
 <img src="https://github-profile-trophy.vercel.app/?username=AureumApes&theme=radical">
  <br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AureumApes">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AureumApes&theme=radical">
 </span>
