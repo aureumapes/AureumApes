@@ -20,4 +20,3 @@ Sometimes i also write C or C#, for Unity Games for Example
  <br>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AureumApes">
 </span>
-[![Top Langs]()]
