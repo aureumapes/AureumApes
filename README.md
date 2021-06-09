@@ -13,6 +13,6 @@ Sometimes i also write C or C#, for Unity Games for Example
 </span>
 
 ## GitHub Stats 
-<img src="https://github-readme-stats.vercel.app/api?username=AureumApes&show_icons=true&count_private=true&theme=radical">
-<img src="https://github-profile-trophy.vercel.app/?username=AureumApes&theme=radical">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AureumApes&theme=radical">
+<img alt="stats"src="https://github-readme-stats.vercel.app/api?username=AureumApes&show_icons=true&count_private=true&theme=radical">
+<img alt="trophys"src="https://github-profile-trophy.vercel.app/?username=AureumApes&theme=radical">
+<img alt="top languages"src="https://github-readme-stats.vercel.app/api/top-langs/?username=AureumApes&theme=radical">
