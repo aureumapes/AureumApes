@@ -1,4 +1,6 @@
-<div>
+<div style="img {
+    filter: invert(100%);
+}">
 Hey there <br>
 Im AureumApes and i code in Python JavaScript and Kotlin.
 Sometimes i also write C or C#, for Unity Games for Example
