@@ -1,5 +1,4 @@
-<link rel="stylesheet" href="./css/main.css">
-
+<div>
 Hey there <br>
 Im AureumApes and i code in Python JavaScript and Kotlin.
 Sometimes i also write C or C#, for Unity Games for Example
@@ -16,3 +15,4 @@ Sometimes i also write C or C#, for Unity Games for Example
 <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=AureumApes&show_icons=true&count_private=true&theme=radical">
 <img alt="trophys" src="https://github-profile-trophy.vercel.app/?username=AureumApes&theme=radical">
 <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AureumApes&theme=radical">
+</div>
