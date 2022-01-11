@@ -13,4 +13,4 @@ Sometimes i also write C or C#, for Unity Games for Example
 ![](https://discord.c99.nl/widget/theme-1/608920482284306434.png)<br>
 ![](https://github-readme-stats.vercel.app/api?username=AureumApes&show_icons=true&count_private=true&theme=merko)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AureumApes&theme=merko)<br>
-![](https://github-profile-trophy.vercel.app/?username=AureumApes&theme=merko)
+![](https://github-profile-trophy.vercel.app/?username=AureumApes&theme=radical)
