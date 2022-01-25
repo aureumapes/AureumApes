@@ -1,6 +1,6 @@
 <div>
 Hey there <br>
-Im AureumApes and i code in Python JavaScript and Kotlin.
+Im AureumApes and I do Python, Go and Kotlin.
 Sometimes i also write C or C#, for Unity Games for Example
 
 ## My Internet Precences
