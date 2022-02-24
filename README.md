@@ -11,4 +11,4 @@ Sometimes i also write C or C#, for Unity Games for Example
  
 ## Stats
  
-![Metrics](https://raw.githubusercontent.com/AureumApes/AureumApes/e609e71f8be3261c2db31229e4591b91c8b7770e/github-metrics.svg)
+![Metrics](github-metrics.svg)
