@@ -9,4 +9,5 @@ Sometimes i also write C or C#, for Unity Games for Example
  <a href="https://www.reddit.com/user/AureumApes"><img height="60" width="60" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/reddit.svg"></a>
 </span>
 ## Stats
-![](https://github-readme-stats.vercel.app/api?username=AureumApes&show_icons=true&count_private=true&theme=cobalt)
+ 
+![Metrics](https://raw.githubusercontent.com/AureumApes/AureumApes/e609e71f8be3261c2db31229e4591b91c8b7770e/github-metrics.svg)
