@@ -11,4 +11,4 @@ Sometimes i also write C or C#, for Unity Games for Example
  
 ## Stats
  
-![Metrics](github-metrics.svg)
+![Metrics](./github-metrics.svg)
