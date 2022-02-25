@@ -6,7 +6,3 @@
  
 ## Stats
 ![](github-metrics.svg)
-
-<script>
-window.alert("Hi")
-</script>
