@@ -10,3 +10,4 @@ Sometimes i also write C or C#, for Unity Games for Example
 </span>
  
 ## Stats
+![](github-metrics.svg)
