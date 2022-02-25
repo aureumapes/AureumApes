@@ -10,4 +10,3 @@ Sometimes i also write C or C#, for Unity Games for Example
 </span>
  
 ## Stats
-![](https://raw.githubusercontent.com/AureumApes/AureumApes/main/github-metrics.svg)
