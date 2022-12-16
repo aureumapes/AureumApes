@@ -8,5 +8,5 @@ My favourite Programming language is Go and i really enjoy esoteric languages
 </span>
  
 ## Stats
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AureumApes&repo=ABChat?theme=jolly)
+![Stats](https://github-readme-stats.vercel.app/api?username=AureumApes&show_icons=true&theme=jolly)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AureumApes&theme=jolly&layout=compact)
