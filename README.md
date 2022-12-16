@@ -1,5 +1,5 @@
-Hello, my name is AureumApes and I'm a self-thought, hobby- Backend Developer.<br>
-My favourite Programming language is Go and i really enjoy esoteric languages
+Hello, my name is AureumApes and I'm a self-thought, hobby- Backend Developer from Germany.<br>
+In love with Go and Esoteric Languages.
 
 ## My Internet Precences
 <span>
