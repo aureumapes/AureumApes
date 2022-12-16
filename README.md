@@ -1,4 +1,4 @@
-<div algin="center">
+<div align="center">
 Hello, my name is AureumApes and I'm a self-thought, hobby- Backend Developer from Germany.<br>
 In love with Go and Esoteric Languages.
 
