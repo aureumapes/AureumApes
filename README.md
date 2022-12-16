@@ -8,4 +8,4 @@ My favourite Programming language is Go and i really enjoy esoteric languages
 </span>
  
 ## Stats
-![Metrics](/github-metrics.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra?theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
