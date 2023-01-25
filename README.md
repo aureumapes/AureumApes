@@ -17,11 +17,12 @@ Tools and Languages I use
 ### OS
 [![OS](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
+
 ### Frontend
 ![Frontend](https://skillicons.dev/icons?i=html,vue,js)
 
 ### Backend
-![Frontend](https://skillicons.dev/icons?i=go)
+![Backend](https://raw.githubusercontent.com/gin-gonic/logo/master/color.png)
 
 ### Cli
 ![Cli](https://skillicons.dev/icons?i=go,kotlin)
