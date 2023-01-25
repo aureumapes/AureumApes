@@ -22,7 +22,7 @@ Tools and Languages I use
 ![Frontend](https://skillicons.dev/icons?i=html,vue,js)
 
 ### Backend
-<code><img height="50px" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"/></code>
+<img height="50px" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"/>
 
 ### Cli
 ![Cli](https://skillicons.dev/icons?i=go,kotlin)
