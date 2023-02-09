@@ -15,7 +15,7 @@ Contact me
 Tools and Languages I use
 ----------
 ### OS
-[![OS](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+![OS](https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg]
 
 
 ### Frontend
