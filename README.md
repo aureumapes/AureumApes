@@ -16,8 +16,10 @@ Tools and Languages I use
 ----------
 
 <img alt="Arch" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg">
+  
 ![Frontend](https://skillicons.dev/icons?i=svelte,ts)
 ![Cli](https://skillicons.dev/icons?i=go,kotlin)
+  
 <img height="50px" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"/>
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" />
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ" />
