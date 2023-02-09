@@ -15,7 +15,7 @@ Contact me
 Tools and Languages I use
 ----------
 ### OS
-![OS](https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg]
+<img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg">
 
 
 ### Frontend
