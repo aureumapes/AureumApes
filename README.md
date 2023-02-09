@@ -14,21 +14,15 @@ Contact me
 
 Tools and Languages I use
 ----------
-### OS
-<img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg">
 
+<img alt="Arch" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg">
 
-### Frontend
 ![Frontend](https://skillicons.dev/icons?i=svelte,ts)
 
-### Backend
 <img height="50px" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"/>
 
-### Cli
 ![Cli](https://skillicons.dev/icons?i=go,kotlin)
 
-
-### IDEs, Editors and Others
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" />
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="InteliJ" title="InteliJ" />
 <img height="50" src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" alt="WebStorm" title="WebStorm" />
