@@ -19,7 +19,7 @@ Tools and Languages I use
 
 
 ### Frontend
-![Frontend](https://skillicons.dev/icons?i=html,vue,js)
+![Frontend](https://skillicons.dev/icons?i=svelte,ts)
 
 ### Backend
 <img height="50px" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"/>
