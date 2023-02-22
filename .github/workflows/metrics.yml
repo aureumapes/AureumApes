@@ -1,6 +1,9 @@
+# Visit https://github.com/lowlighter/metrics#-documentation for full reference
 name: Metrics
 on:
-  schedule: [{cron: "0 2,4,6,8,10,0 * * *"}] 
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 2,4,6,8,10,12 * * *"}]
+  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
 jobs:
@@ -12,29 +15,22 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
           user: AureumApes
           template: classic
-          base: ""
+          base: header, activity, community, repositories, metadata
           config_timezone: Europe/Berlin
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
-          plugin_languages_aliases: javascript:JS, typescript:TS
           plugin_languages_analysis_timeout: 15
           plugin_languages_analysis_timeout_repositories: 7.5
           plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_ignored: html,css,python
-          plugin_languages_limit: 10
+          plugin_languages_colors: github, javascript:yellow, typescript:#3bafd6
+          plugin_languages_limit: 8
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 14
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
-          plugin_repositories: yes
-          plugin_repositories_order: pinned, starred
