@@ -15,7 +15,7 @@ Contact me
 Tools and Languages I use
 ----------
 
-<img alt="Arch" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg">
+<img alt="Arch" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg">
 <img height="50px" src="https://skillicons.dev/icons?i=svelte,ts,go,kotlin">  
 <img height="50px" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"/>
 <img height="50px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" />
