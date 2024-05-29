@@ -3,7 +3,7 @@
 About Me
 -------
 
-Hello, my name is AureumApes and I'm a self-thought, hobby- Backend Developer from Germany.
+Hello, my name is AureumApes and I'm a self-thaught, hobby- Backend Developer from Germany.
 In love with Go and Esoteric Languages.
 
 Contact me
