@@ -8,8 +8,8 @@ In love with Go and Esoteric Languages.
 
 Contact me
 ---------------------
-[![Discord](https://img.shields.io/badge/Discord-lightgrey?logo=discord&logoColor=grey)](https://discord.com/users/608920482284306434)
-[![Steam](https://img.shields.io/badge/Steam-444?logo=steam&logoColor=white)](https://steamcommunity.com/id/AureumApes/)
+[![Discord](https://img.shields.io/badge/Discord-lightgrey?style=for-the-badge&logo=discord&logoColor=grey)](https://discord.com/users/608920482284306434)
+[![Steam](https://img.shields.io/badge/Steam-444?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/AureumApes/)
 
 Tools and Languages I use
 ----------
