@@ -14,11 +14,9 @@ Contact me
 Tools and Languages I use
 ----------
 
-<img height="50px" src="https://skillicons.dev/icons?i=arch,golang,git,html,postgres,sqlite,emacs">  
-<img height="50px" src="https://raw.githubusercontent.com/gin-gonic/logo/master/color.png"/>
-<img height="50px" src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" alt="WebStorm" title="WebStorm" />
-<img height="50px" src="https://icon.icepanel.io/Technology/svg/GoLand.svg" alt="GoLand" title="GoLand">
-
+| OS | [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#) ![RPI](https://img.shields.io/badge/Raspberry%20Pi-c61a4a?style=for-the-badge&logo=raspberrypi&logoColor=white) |
+| Languages | [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#) [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) |
+| Other Technologies | [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#) [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#) [![W3Schools](https://img.shields.io/badge/W3Schools-04AA6D?logo=w3schools&logoColor=fff)](#) |
 Metrics
 -------
 ![Metrics](./github-metrics.svg)<br>
