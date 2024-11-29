@@ -13,6 +13,7 @@ Contact me
 
 Tools and Languages I use
 ----------
+| Type| Tech |
 |  --  | --|
 | OS | [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#) ![RPI](https://img.shields.io/badge/Raspberry%20Pi-c61a4a?style=for-the-badge&logo=raspberrypi&logoColor=white) |
 | Languages | [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#) [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) |
